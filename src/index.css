@@ -1,0 +1,4 @@
+/*! De esta forma se añaden las clases de tailwind  a el css*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
